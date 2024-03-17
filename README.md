@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sahaji-2003
+# Hi there! 👋 I'm Sahaji Chaurasia
 
 - 👀 I’m interested in exploring new technologies and building innovative projects.
 - 🌱 I’m currently learning advanced web development techniques and machine learning algorithms.
